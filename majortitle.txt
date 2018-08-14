@@ -1,0 +1,18 @@
+Information Extraction 
+Fuzzy Logic & Control System
+Software Engineering
+Cryptrography 
+Data Warehousing
+Data Mining
+Database Systems
+Decision Support Systems
+Natural Language Processing
+Web Engineering
+Parallel And Distributed Computing
+Networking And Security
+Simulation,Modeling And Computing 
+Image Processing
+Artificial Intelligent 
+Algorithms
+Case-Based Reasoning
+Geographical Information Systems 
